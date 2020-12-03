@@ -1,4 +1,4 @@
-function TaskEleven(s1, s2)
+function taskEleven(s1, s2)
 {
   var arr= [];
 //Checks which string is shorter  
