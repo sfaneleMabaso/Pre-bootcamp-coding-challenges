@@ -1,4 +1,4 @@
-function TaskSix(x,y,z)
+function taskSix(x,y,z)
 {
     var max = 0;
     
