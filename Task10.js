@@ -1,4 +1,4 @@
-function TaskTen(s) {
+function taskTen(s) {
   
 var vowels = 'aeiouAEIOU'
 
