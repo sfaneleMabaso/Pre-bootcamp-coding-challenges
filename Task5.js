@@ -1,4 +1,4 @@
-function TaskFive(x,y,z)
+function taskFive(x,y,z)
 {
   var s = (x+y+z)/ 2;
   var area =Math.sqrt(s*((s-x)*(s-y)*(s-z)));
