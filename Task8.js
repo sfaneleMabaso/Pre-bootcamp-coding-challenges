@@ -1,4 +1,4 @@
-function TaskEight (x)
+function taskEight (x)
 {
  
   var hours = Math.floor(x / 60);  
