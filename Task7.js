@@ -1,4 +1,4 @@
-function ToFahrenheit(celsius) 
+function toFahrenheit(celsius) 
 {
   var c = celsius;
   var convert = c * 9 / 5 + 32;
@@ -8,7 +8,7 @@ function ToFahrenheit(celsius)
    return console.log(text);
 }
 
-function ToCelsius(fahrenheit) 
+function toCelsius(fahrenheit) 
 {
   var f = fahrenheit;
   
