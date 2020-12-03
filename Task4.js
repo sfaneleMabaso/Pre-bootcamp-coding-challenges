@@ -1,4 +1,4 @@
-function TaskFour(x , y)
+function taskFour(x , y)
 {
   if ((x == 3 || y == 3) && ( x + y == 3))
   return true;
