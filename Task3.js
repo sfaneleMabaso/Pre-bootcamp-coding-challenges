@@ -1,4 +1,4 @@
-function TaskThree(x , y)
+function taskThree(x , y)
 {
   if (x == 65 || y == 65 ||  x + y == 65)
   return true;
