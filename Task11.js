@@ -27,5 +27,5 @@ function taskEleven(s1, s2)
 var s1 = prompt ("Enter your first string: ");
 var s2 = prompt ("Enter your second string: ");
 
-console.log(TaskEleven(s1,s2));
+console.log(taskEleven(s1,s2));
 
