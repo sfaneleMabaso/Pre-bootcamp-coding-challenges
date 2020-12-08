@@ -17,4 +17,4 @@ var x = prompt ("Enter first number: ");
 var y = prompt ("Enter second number: ");
 var z = prompt ("Enter third number: ");
 
-console.log(TaskSix(x,y,z));
+console.log(taskSix(x,y,z));
