@@ -8,5 +8,5 @@ function taskThree(x , y)
 
 var x = prompt ("Enter first number: ");
 var y = prompt ("Enter second number: ");
-var results = TaskThree(x , y);
+var results = taskThree(x , y);
 console.log( results);
