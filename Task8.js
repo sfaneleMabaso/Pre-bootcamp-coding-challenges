@@ -10,4 +10,4 @@ function taskEight (x)
 }
 
 var num = prompt (" Enter number to convert: ");
-console.log(TaskEight(num));
+console.log(taskEight(num));
