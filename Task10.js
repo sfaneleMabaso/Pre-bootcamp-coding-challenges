@@ -14,6 +14,6 @@ var vowels = 'aeiouAEIOU'
 }
 var str = prompt ( "Enter your String: ");
 
-TaskTen(str);
+taskTen(str);
    
      
